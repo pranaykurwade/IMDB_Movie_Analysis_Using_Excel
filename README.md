@@ -12,16 +12,16 @@ Here, you'll explore the data to understand the relationships between different 
 # Five 'Whys' Approach: 
 This technique will help you dig deeper into the problem. For instance, if you find that movies with higher budgets tend to have higher ratings, you can ask "Why?" repeatedly to uncover the root cause. Here's an example:
 
-Q: "Why do movies with higher budgets tend to have higher ratings?"
-A: They can afford better production quality.
-Q: "Why does better production quality lead to higher ratings?"
-A: It enhances the viewer's experience.
-Q: "Why does an enhanced viewer experience lead to higher ratings?"
-A: Viewers are more likely to rate a movie highly if they enjoyed watching it.
-Q: "Why are viewers more likely to rate a movie highly if they enjoyed watching it?"
-A: Positive experiences lead to positive reviews.
-Q: "Why do positive reviews matter?"
-A: They influence other viewers' decisions to watch the movie, increasing its popularity and success.
+<br> Q: "Why do movies with higher budgets tend to have higher ratings?" <br>
+<br> A: They can afford better production quality. <br>
+<br> Q: "Why does better production quality lead to higher ratings?" <br>
+<br> A: It enhances the viewer's experience. <br>
+<br> Q: "Why does an enhanced viewer experience lead to higher ratings?" <br>
+<br> A: Viewers are more likely to rate a movie highly if they enjoyed watching it. <br>
+<br> Q: "Why are viewers more likely to rate a movie highly if they enjoyed watching it?" <br>
+<br> A: Positive experiences lead to positive reviews. <br> 
+<br> Q: "Why do positive reviews matter?" <br>
+<br> A: They influence other viewers' decisions to watch the movie, increasing its popularity and success. <br>
 
 # Report and Data Story: 
 After your analysis, you'll create a report that tells a story with your data. This should include your initial problem, your findings, and the insights you've gained. Use visualizations to help tell your story and make your findings more understandable.
